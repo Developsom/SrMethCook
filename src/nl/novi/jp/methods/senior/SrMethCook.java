@@ -92,5 +92,15 @@ Process finished with exit code 0
     Of zou het: Mo El-Mecky moeten zijn omdat 'El'-Mecky geen tussenvoegsel is?
 
 
+Assignment specificeert:
+ * 2: Eerste letter na '-': Hoofdletter
 
+ Correcte vorm zou moeten zijn:
+ Mo el-Mecky
+
+ Maar '-' is wel verbindend in Nederlandse taal?
+ Dan zou correct definieren:
+Mo El-Mecky
+
+ Maar t is marrok
  */
