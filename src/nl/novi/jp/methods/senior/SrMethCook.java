@@ -1,6 +1,7 @@
 package nl.novi.jp.methods.senior;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class SrMethCook {
@@ -40,13 +41,21 @@ public class SrMethCook {
                         if (j > 0) {
                             capitalized.append("-");
                         }
-                        capitalized.append(capitalizeWord(hyphenPart));
+                        if (!isPrefix(hyphenPart)) {
+                            capitalized.append(capitalizeWord(hyphenPart));
+                        } else {
+                            capitalized.append(hyphenPart.toLowerCase());
+                        }
                     }
                 } else {
                     if (i > 0) {
                         capitalized.append(" ");
                     }
-                    capitalized.append(capitalizeWord(namePart));
+                    if (!isPrefix(namePart)) {
+                        capitalized.append(capitalizeWord(namePart));
+                    } else {
+                        capitalized.append(namePart.toLowerCase());
+                    }
                 }
             }
 
@@ -54,6 +63,11 @@ public class SrMethCook {
         }
 
         return capitalizedNames;
+    }
+
+    public static boolean isPrefix(String word) {
+        List<String> prefixes = Arrays.asList("van", "de", "den");
+        return prefixes.contains(word.toLowerCase());
     }
 
     public static String capitalizeWord(String word) {
@@ -66,6 +80,7 @@ public class SrMethCook {
         return firstLetter + restOfWord;
     }
 }
+
 
 
 /**

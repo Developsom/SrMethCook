@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="Moved back: Assignment description" />
+    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="[Fix in progress]&#10; Tussenvoegsel bevat hoofdletter">
+      <change beforePath="$PROJECT_DIR$/src/nl/novi/jp/methods/senior/SrMethCook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nl/novi/jp/methods/senior/SrMethCook.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687608854881</updated>
-      <workItem from="1687608855990" duration="799000" />
+      <workItem from="1687608855990" duration="2549000" />
     </task>
     <task id="LOCAL-00001" summary="This Main.java is part of my education @NOVI Hogeschool Utrecht">
       <created>1687609072103</created>
@@ -96,7 +98,112 @@
       <option name="project" value="LOCAL" />
       <updated>1687609547578</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added console log">
+      <created>1687609767753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687609767753</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed devs readability">
+      <created>1687609952217</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687609952217</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix readability">
+      <created>1687610067878</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610067878</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix readability">
+      <created>1687610109133</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610109133</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix readability">
+      <created>1687610122471</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610122471</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fix readability">
+      <created>1687610135459</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610135459</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fix readability">
+      <created>1687610149835</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610149835</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix readability">
+      <created>1687610188626</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610188626</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fix readability">
+      <created>1687610200263</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610200263</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix readability">
+      <created>1687610225730</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610225730</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Solving first attempt now">
+      <created>1687610623697</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610623697</updated>
+    </task>
+    <task id="LOCAL-00018" summary="    Of zou het: Mo El-Mecky moeten zijn omdat 'El'-Mecky geen tussenvoegsel is?">
+      <created>1687610863913</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1687610863913</updated>
+    </task>
+    <task id="LOCAL-00019" summary=" Maar '-' is wel verbindend in Nederlandse taal?&#10; Dan zou correct definieren:&#10;Mo El-Mecky">
+      <created>1687611094998</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1687611094998</updated>
+    </task>
+    <task id="LOCAL-00020" summary="lol">
+      <created>1687611120663</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1687611120663</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[Fix in progress]&#10; Tussenvoegsel bevat hoofdletter">
+      <created>1687611314891</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1687611314891</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +216,14 @@
     <MESSAGE value="Assignment" />
     <MESSAGE value="First attempt" />
     <MESSAGE value="Moved back: Assignment description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved back: Assignment description" />
+    <MESSAGE value="Added console log" />
+    <MESSAGE value="Fixed devs readability" />
+    <MESSAGE value="Fix readability" />
+    <MESSAGE value="Solving first attempt now" />
+    <MESSAGE value="    Of zou het: Mo El-Mecky moeten zijn omdat 'El'-Mecky geen tussenvoegsel is?" />
+    <MESSAGE value=" Maar '-' is wel verbindend in Nederlandse taal?&#10; Dan zou correct definieren:&#10;Mo El-Mecky" />
+    <MESSAGE value="lol" />
+    <MESSAGE value="[Fix in progress]&#10; Tussenvoegsel bevat hoofdletter" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Fix in progress]&#10; Tussenvoegsel bevat hoofdletter" />
   </component>
 </project>
