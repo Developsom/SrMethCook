@@ -70,7 +70,6 @@ public class SrMethCook {
 
 /**
  Namen
- Maak een methode die een List als
  * Bonus 1: Zorg ervoor dat tussenvoegsels geen hoofdletter krijgen.
  * Bonus 2: Zorg ervoor dat de eerste letter na een '-' wel een hoofdletter krijgt.
  *
