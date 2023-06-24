@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="[Fix in progress]&#10; Tussenvoegsel bevat hoofdletter">
+    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="[Fixed]&#10; Tussenvoegsel bevat hoofdletter">
       <change beforePath="$PROJECT_DIR$/src/nl/novi/jp/methods/senior/SrMethCook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nl/novi/jp/methods/senior/SrMethCook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687608854881</updated>
-      <workItem from="1687608855990" duration="2549000" />
+      <workItem from="1687608855990" duration="2863000" />
     </task>
     <task id="LOCAL-00001" summary="This Main.java is part of my education @NOVI Hogeschool Utrecht">
       <created>1687609072103</created>
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687611314891</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="[Fixed]&#10; Tussenvoegsel bevat hoofdletter">
+      <created>1687611436357</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1687611436357</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +231,7 @@
     <MESSAGE value=" Maar '-' is wel verbindend in Nederlandse taal?&#10; Dan zou correct definieren:&#10;Mo El-Mecky" />
     <MESSAGE value="lol" />
     <MESSAGE value="[Fix in progress]&#10; Tussenvoegsel bevat hoofdletter" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Fix in progress]&#10; Tussenvoegsel bevat hoofdletter" />
+    <MESSAGE value="[Fixed]&#10; Tussenvoegsel bevat hoofdletter" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Fixed]&#10; Tussenvoegsel bevat hoofdletter" />
   </component>
 </project>

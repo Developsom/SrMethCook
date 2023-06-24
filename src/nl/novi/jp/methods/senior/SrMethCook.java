@@ -39,7 +39,7 @@ public class SrMethCook {
                     for (int j = 0; j < hyphenParts.length; j++) {
                         String hyphenPart = hyphenParts[j];
                         if (j > 0) {
-                            capitalized.append("-");
+                            capitalized.append(" ");
                         }
                         if (!isPrefix(hyphenPart)) {
                             capitalized.append(capitalizeWord(hyphenPart));
@@ -80,6 +80,7 @@ public class SrMethCook {
         return firstLetter + restOfWord;
     }
 }
+
 
 
 
