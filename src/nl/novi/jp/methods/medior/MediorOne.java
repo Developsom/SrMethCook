@@ -1,7 +1,7 @@
 package nl.novi.jp.methods.medior;
 
 /**
- * Kun je een methode schrijven die het getal kwadrateert en deze returnt als integer?
+ * Methode schrijven die het getal kwadrateert en deze returnt als integer
  *
  * Roep deze vervolgens aan vanuit de main-methode.
  */
