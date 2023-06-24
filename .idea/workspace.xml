@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="Fixed readability">
-      <change beforePath="$PROJECT_DIR$/src/nl/novi/jp/methods/medior/MediorTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nl/novi/jp/methods/medior/MediorTwo.java" afterDir="false" />
+    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="Solved">
+      <change afterPath="$PROJECT_DIR$/src/nl/novi/jp/methods/medior/MediorThree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <updated>1687608854881</updated>
       <workItem from="1687608855990" duration="3435000" />
       <workItem from="1687617491921" duration="1609000" />
-      <workItem from="1687624870807" duration="4895000" />
+      <workItem from="1687624870807" duration="5325000" />
     </task>
     <task id="LOCAL-00001" summary="This Main.java is part of my education @NOVI Hogeschool Utrecht">
       <created>1687609072103</created>
@@ -374,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687638210823</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Solved">
+      <created>1687639873252</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1687639873252</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,7 +399,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fixed devs readability" />
     <MESSAGE value="Solving first attempt now" />
     <MESSAGE value="    Of zou het: Mo El-Mecky moeten zijn omdat 'El'-Mecky geen tussenvoegsel is?" />
     <MESSAGE value=" Maar '-' is wel verbindend in Nederlandse taal?&#10; Dan zou correct definieren:&#10;Mo El-Mecky" />
@@ -417,6 +423,7 @@
     <MESSAGE value="Fix readability" />
     <MESSAGE value="Solved MediorOne" />
     <MESSAGE value="Fixed readability" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed readability" />
+    <MESSAGE value="Solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved" />
   </component>
 </project>
