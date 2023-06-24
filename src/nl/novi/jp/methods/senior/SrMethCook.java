@@ -72,8 +72,6 @@ public class SrMethCook {
                 Namen
  * 1: Tussenvoegsels geen hoofdletter.
  * 2: Eerste letter na '-': Hoofdletter
- *
- *
  */
 
 // [Nick Piraat, Michael Jackson, Glennis Grace, Dreetje Hazes, Robbie Williams, Michiel De Ruyter, Sjaak Polak, Jan Van Jansen, Henk Den Hartog, MoEl-Mecky, Fredje Kadetje]
