@@ -2,7 +2,7 @@ package nl.novi.jp.methods.medior;
 
 /**
  * Methode getal kwadrateert returnt integer
- * Roep deze vervolgens aan vanuit de main-methode.
+ * Roep aan vanuit main-methode.
  */
 
 public class MediorOne {
