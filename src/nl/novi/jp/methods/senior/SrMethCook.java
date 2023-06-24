@@ -99,7 +99,7 @@ Assignment specificeert:
  Mo el-Mecky
 
  Maar '-' is wel verbindend in Nederlandse taal?
- Dan zou correct definieren:
+ Dan zou correct definiëren:
 Mo El-Mecky
 
  Maar t is marrok
