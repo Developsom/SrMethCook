@@ -17,7 +17,7 @@ public class SrMethCook {
         customerNames.add("sjaak polak");
         customerNames.add("jan van jansen");
         customerNames.add("henk den hartog");
-        customerNames.add("moel-mecky");
+        customerNames.add("mo el-mecky");
         customerNames.add("fredje kadetje");
 
         List<String> capitalizedNames = capitalizeCustomerNames(customerNames);
@@ -41,16 +41,20 @@ public class SrMethCook {
                         if (j > 0) {
                             capitalized.append(" ");
                         }
-                        capitalized.append(capitalizeWord(hyphenPart));
+                        if (!isPrefix(hyphenPart)) {
+                            capitalized.append(capitalizeWord(hyphenPart));
+                        } else {
+                            capitalized.append(hyphenPart.toLowerCase());
+                        }
                     }
                 } else {
                     if (i > 0) {
                         capitalized.append(" ");
                     }
-                    if (isPrefix(namePart)) {
-                        capitalized.append(namePart.toLowerCase());
-                    } else {
+                    if (!isPrefix(namePart)) {
                         capitalized.append(capitalizeWord(namePart));
+                    } else {
+                        capitalized.append(namePart.toLowerCase());
                     }
                 }
             }
@@ -76,6 +80,7 @@ public class SrMethCook {
         return firstLetter + restOfWord;
     }
 }
+
 
 
 
