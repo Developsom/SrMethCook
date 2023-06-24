@@ -122,4 +122,6 @@ Assignment specificeert:
 Mo El-Mecky
 
  Ik ga akkoord met wat het eerste werkt nadat ik de space fix heb
+
+ Uhh.. senior was idd te hoog gegrepen
  */
