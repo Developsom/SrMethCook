@@ -102,5 +102,5 @@ Assignment specificeert:
  Dan zou correct definiëren:
 Mo El-Mecky
 
- Maar t is marrok
+ Ik ga akkoord met wat het eerste werkt nadat ik de space fix heb
  */
