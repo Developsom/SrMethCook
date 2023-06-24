@@ -69,12 +69,22 @@ public class SrMethCook {
 
 
 /**
+ * Assignment
                 Namen
  * 1: Tussenvoegsels geen hoofdletter.
  * 2: Eerste letter na '-': Hoofdletter
+
+                First attempt
+[Nick Piraat, Michael Jackson, Glennis Grace, Dreetje Hazes, Robbie Williams, Michiel De Ruyter, Sjaak Polak, Jan Van Jansen, Henk Den Hartog, MoEl-Mecky, Fredje Kadetje]
+Process finished with exit code 0
+
+                Error:
+ Tussenvoegsel bevat hoofdletter
+
+                Opvallend:
+ Console log:
+ 'MoEl-Mecky'
+        '-' Verricht iets met de spatie
+        Na de '-' is er een hoofdletter
+
  */
-
-// [Nick Piraat, Michael Jackson, Glennis Grace, Dreetje Hazes, Robbie Williams, Michiel De Ruyter, Sjaak Polak, Jan Van Jansen, Henk Den Hartog, MoEl-Mecky, Fredje Kadetje]
-// Process finished with exit code 0
-
-// Hoofdl
