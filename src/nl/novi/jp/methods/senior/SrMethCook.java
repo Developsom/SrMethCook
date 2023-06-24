@@ -71,8 +71,6 @@ public class SrMethCook {
 /**
  Namen
  Maak een methode die een List als
- * parameter ontvangt en de inhoud vervolgens van hoofdletters voorziet.
- *
  * Bonus 1: Zorg ervoor dat tussenvoegsels geen hoofdletter krijgen.
  * Bonus 2: Zorg ervoor dat de eerste letter na een '-' wel een hoofdletter krijgt.
  *
