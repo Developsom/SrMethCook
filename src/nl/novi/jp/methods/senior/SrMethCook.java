@@ -87,4 +87,10 @@ Process finished with exit code 0
         '-' Verricht iets met de spatie
         Na de '-' is er een hoofdletter
 
+ customerNames.add("mo el-mecky");
+ Correcte vorm zou moeten zijn: Mo el-Mecky.
+    Of zou het: Mo El-Mecky moeten zijn omdat 'El'-Mecky geen tussenvoegsel is?
+
+
+
  */
