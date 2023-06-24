@@ -71,7 +71,7 @@ public class SrMethCook {
 /**
  Namen
  * 1: Tussenvoegsels geen hoofdletter.
- * 2: Zorg ervoor dat de eerste letter na een '-' wel een hoofdletter krijgt.
+ * 2: Eerste letter na '-': Hoofdletter
  *
  *
  */
