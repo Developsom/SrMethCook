@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="Finished jr2">
-      <change afterPath="$PROJECT_DIR$/src/nl/novi/jp/methods/junior/JuniorThree.java" afterDir="false" />
+    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="Fix readability">
+      <change beforePath="$PROJECT_DIR$/src/nl/novi/jp/methods/medior/MediorOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nl/novi/jp/methods/medior/MediorOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <updated>1687608854881</updated>
       <workItem from="1687608855990" duration="3435000" />
       <workItem from="1687617491921" duration="1609000" />
-      <workItem from="1687624870807" duration="1368000" />
+      <workItem from="1687624870807" duration="1951000" />
     </task>
     <task id="LOCAL-00001" summary="This Main.java is part of my education @NOVI Hogeschool Utrecht">
       <created>1687609072103</created>
@@ -318,18 +318,51 @@
       <option name="project" value="LOCAL" />
       <updated>1687633245023</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Finished jr3">
+      <created>1687633506059</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1687633506059</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Fix readability">
+      <created>1687633777529</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1687633777529</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Fix readability">
+      <created>1687633801270</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1687633801270</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Fix readability">
+      <created>1687633894972</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1687633894972</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Fix readability">
+      <created>1687633907457</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1687633907457</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First attempt" />
     <MESSAGE value="Moved back: Assignment description" />
     <MESSAGE value="Added console log" />
     <MESSAGE value="Fixed devs readability" />
-    <MESSAGE value="Fix readability" />
     <MESSAGE value="Solving first attempt now" />
     <MESSAGE value="    Of zou het: Mo El-Mecky moeten zijn omdat 'El'-Mecky geen tussenvoegsel is?" />
     <MESSAGE value=" Maar '-' is wel verbindend in Nederlandse taal?&#10; Dan zou correct definieren:&#10;Mo El-Mecky" />
@@ -350,6 +383,8 @@
     <MESSAGE value="Finished BeginnerThree" />
     <MESSAGE value="Finished jr1" />
     <MESSAGE value="Finished jr2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished jr2" />
+    <MESSAGE value="Finished jr3" />
+    <MESSAGE value="Fix readability" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix readability" />
   </component>
 </project>
