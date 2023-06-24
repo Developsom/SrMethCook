@@ -69,9 +69,8 @@ public class SrMethCook {
 
 
 /**
- * Gegeven: een lijst met namen zonder hoofdletters van klanten.
- * Opdracht: Een luie stagiair heeft alle klanten in het systeem gezet, maar deze kon de Shift-knop niet vinden.
- * Het is aan jou om alle namen van een hoofdletter aan het begin te voorzien. Maak een methode die een List als
+ Namen
+ Maak een methode die een List als
  * parameter ontvangt en de inhoud vervolgens van hoofdletters voorziet.
  *
  * Bonus 1: Zorg ervoor dat tussenvoegsels geen hoofdletter krijgen.
@@ -83,4 +82,4 @@ public class SrMethCook {
 // [Nick Piraat, Michael Jackson, Glennis Grace, Dreetje Hazes, Robbie Williams, Michiel De Ruyter, Sjaak Polak, Jan Van Jansen, Henk Den Hartog, MoEl-Mecky, Fredje Kadetje]
 // Process finished with exit code 0
 
-// Tussenvoegsel
+// Hoofdl
