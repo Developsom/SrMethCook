@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="MoEl-Mecky">
-      <change beforePath="$PROJECT_DIR$/src/nl/novi/jp/methods/senior/SrMethCook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nl/novi/jp/methods/senior/SrMethCook.java" afterDir="false" />
-    </list>
+    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="I guess senior was too high to roll on" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687608854881</updated>
-      <workItem from="1687608855990" duration="3185000" />
+      <workItem from="1687608855990" duration="3435000" />
     </task>
     <task id="LOCAL-00001" summary="This Main.java is part of my education @NOVI Hogeschool Utrecht">
       <created>1687609072103</created>
@@ -224,7 +222,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687611923751</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Moel Mecky">
+      <created>1687612064304</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1687612064305</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Moel Mecky">
+      <created>1687612204926</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1687612204926</updated>
+    </task>
+    <task id="LOCAL-00027" summary="I guess senior was too high to roll on">
+      <created>1687612292096</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1687612292096</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +267,8 @@
     <MESSAGE value="[Fixed]&#10; Tussenvoegsel bevat hoofdletter" />
     <MESSAGE value="MoEl Mecky" />
     <MESSAGE value="MoEl-Mecky" />
-    <option name="LAST_COMMIT_MESSAGE" value="MoEl-Mecky" />
+    <MESSAGE value="Moel Mecky" />
+    <MESSAGE value="I guess senior was too high to roll on" />
+    <option name="LAST_COMMIT_MESSAGE" value="I guess senior was too high to roll on" />
   </component>
 </project>
