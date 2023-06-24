@@ -70,7 +70,7 @@ public class SrMethCook {
 
 /**
  Namen
- * 1: Zorg ervoor dat tussenvoegsels geen hoofdletter krijgen.
+ * 1: Tussenvoegsels geen hoofdletter.
  * 2: Zorg ervoor dat de eerste letter na een '-' wel een hoofdletter krijgt.
  *
  *
