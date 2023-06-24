@@ -3,11 +3,9 @@ package nl.novi.jp.methods.beginner;
 public class BeginnerTwo {
     public static void main(String[] args) {
         printFact();
-    }
-
-    public static void main(String[] args) {
         printAnotherFact();
     }
+
 
     public static void printFact() {
         System.out.println("Alle access modifiers zetten we voor het gemak op public");
