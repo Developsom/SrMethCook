@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="I guess senior was too high to roll on" />
+    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="Finished BeginnerThree">
+      <change afterPath="$PROJECT_DIR$/src/nl/novi/jp/methods/junior/JuniorOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1687608854881</updated>
       <workItem from="1687608855990" duration="3435000" />
+      <workItem from="1687617491921" duration="1609000" />
+      <workItem from="1687624870807" duration="861000" />
     </task>
     <task id="LOCAL-00001" summary="This Main.java is part of my education @NOVI Hogeschool Utrecht">
       <created>1687609072103</created>
@@ -243,15 +248,69 @@
       <option name="project" value="LOCAL" />
       <updated>1687612292096</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="BeginnerOne finished">
+      <created>1687617790266</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1687617790267</updated>
+    </task>
+    <task id="LOCAL-00029" summary="BeginnerTwo started">
+      <created>1687617899886</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1687617899886</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Moved descrp">
+      <created>1687617926580</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1687617926580</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added anotherf">
+      <created>1687618017864</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1687618017864</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Moved into designed body">
+      <created>1687618046548</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1687618046548</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Kleur verandertnaar resolved">
+      <created>1687618089594</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1687618089594</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Started BeginnerThree">
+      <created>1687618154121</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1687618154121</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Finished BeginnerThree">
+      <created>1687618838743</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1687618838743</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="This Main.java is part of my education @NOVI Hogeschool Utrecht" />
-    <MESSAGE value="Hello, World!" />
     <MESSAGE value="Assignment code" />
     <MESSAGE value="Assignment" />
     <MESSAGE value="First attempt" />
@@ -269,6 +328,14 @@
     <MESSAGE value="MoEl-Mecky" />
     <MESSAGE value="Moel Mecky" />
     <MESSAGE value="I guess senior was too high to roll on" />
-    <option name="LAST_COMMIT_MESSAGE" value="I guess senior was too high to roll on" />
+    <MESSAGE value="BeginnerOne finished" />
+    <MESSAGE value="BeginnerTwo started" />
+    <MESSAGE value="Moved descrp" />
+    <MESSAGE value="Added anotherf" />
+    <MESSAGE value="Moved into designed body" />
+    <MESSAGE value="Kleur verandertnaar resolved" />
+    <MESSAGE value="Started BeginnerThree" />
+    <MESSAGE value="Finished BeginnerThree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished BeginnerThree" />
   </component>
 </project>
