@@ -8,8 +8,6 @@ package nl.novi.jp.methods.medior;
  * Roep je of printUnderAgeWarning() of printProceed() uit.
  */
 public class MediorTwo {
-    int
-
     public static void main(String[] args) {
 
     }
