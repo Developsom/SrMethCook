@@ -25,4 +25,5 @@ public class BeginnerTwo {
  *
  * Je kunt in BeginnerOne kijken hoe twee methodes na elkaar worden aangeroepen. Wat zie je in IntelliJ veranderen aan
  * de kleur van printAnotherFact()?
+ * Kleur verandertnaar resolved
  */
