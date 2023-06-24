@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="Finished BeginnerThree">
-      <change afterPath="$PROJECT_DIR$/src/nl/novi/jp/methods/junior/JuniorOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="770ec92a-31f3-49c4-8b3d-9abbfccfee6e" name="Changes" comment="Finished jr2">
+      <change afterPath="$PROJECT_DIR$/src/nl/novi/jp/methods/junior/JuniorThree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +57,7 @@
       <updated>1687608854881</updated>
       <workItem from="1687608855990" duration="3435000" />
       <workItem from="1687617491921" duration="1609000" />
-      <workItem from="1687624870807" duration="861000" />
+      <workItem from="1687624870807" duration="1368000" />
     </task>
     <task id="LOCAL-00001" summary="This Main.java is part of my education @NOVI Hogeschool Utrecht">
       <created>1687609072103</created>
@@ -304,15 +304,27 @@
       <option name="project" value="LOCAL" />
       <updated>1687618838743</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Finished jr1">
+      <created>1687632981668</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1687632981669</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Finished jr2">
+      <created>1687633245023</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1687633245023</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Assignment code" />
-    <MESSAGE value="Assignment" />
     <MESSAGE value="First attempt" />
     <MESSAGE value="Moved back: Assignment description" />
     <MESSAGE value="Added console log" />
@@ -336,6 +348,8 @@
     <MESSAGE value="Kleur verandertnaar resolved" />
     <MESSAGE value="Started BeginnerThree" />
     <MESSAGE value="Finished BeginnerThree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished BeginnerThree" />
+    <MESSAGE value="Finished jr1" />
+    <MESSAGE value="Finished jr2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished jr2" />
   </component>
 </project>
